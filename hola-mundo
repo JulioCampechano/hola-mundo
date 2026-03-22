@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Primer Proyecto</title>
+</head>
+<body>
+    <h1>¡Hola Mundo! Soy un futuro Desarrollador Full Stack</h1>
+    <p>Este es mi primer código para mi portafolio en GitHub.</p>
+    
+    <h3>Mis metas:</h3>
+    <ul>
+        <li>Aprender HTML y CSS</li>
+        <li>Dominar JavaScript</li>
+        <li>Trabajar en Canadá o Australia</li>
+    </ul>
+</body>
+</html>
